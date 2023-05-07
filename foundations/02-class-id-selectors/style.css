@@ -1,0 +1,18 @@
+.one {
+    background-color: palevioletred;
+
+}
+
+.adjust-font {
+    font-size: 24px;
+}
+
+#two {
+    color: blue;
+    font-size: 50px;
+}
+
+#three {
+    background-color: greenyellow;
+    font-weight: bold;
+}
